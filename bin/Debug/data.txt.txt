@@ -1,0 +1,10 @@
+Anna; könyv; bögre
+Béla; csokoládé; sál
+Csaba; parfüm; napszemüveg
+Dóra; virág; fülbevaló
+Éva; bonbon; kulcstartó
+Ferenc; sapka; naptár
+Gábor; puzzle; jegyzetfüzet
+Hilda; gyertya; plüssállat
+István; bögre; tábla csoki
+Júlia; esernyő; pénztárca
